@@ -3,4 +3,4 @@ Git is a free software distributed under the GPL，
 Git has a mutable index called stage.
 git tracks changes of files.
 git push github.
-create a new branch.
+create a new branch is quick & simple.
